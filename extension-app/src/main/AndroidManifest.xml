@@ -6,7 +6,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/app_logo"
+        android:icon="@drawable/anim1"
         android:label="EasyBangumi: AnimOne"
         android:supportsRtl="true">
 
